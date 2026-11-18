@@ -1,0 +1,25 @@
+{
+  "name": "servico-conecta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayane-trabalhos/Servico-conecta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rayane-trabalhos/Servico-conecta/issues"
+  },
+  "homepage": "https://github.com/rayane-trabalhos/Servico-conecta#readme",
+  "dependencies": {
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
